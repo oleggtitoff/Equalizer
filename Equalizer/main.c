@@ -3,7 +3,7 @@
 #include "FilesOperations.h"
 #include "BiquadFilter.h"
 
-#define INPUT_FILE_NAME "Sine -12.wav"
+#define INPUT_FILE_NAME "Sine_-12_1s.wav"
 #define OUTPUT_FILE_NAME "Output.wav"
 
 #define BYTES_PER_SAMPLE 4
